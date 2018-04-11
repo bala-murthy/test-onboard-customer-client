@@ -1,4 +1,4 @@
-package com.telia.tf;
+package com.bala.tf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
